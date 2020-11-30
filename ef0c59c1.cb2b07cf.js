@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[24],{92:function(o){o.exports=JSON.parse('{"allTagsPath":"/rng-wiki/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/rng-wiki/blog/tags/facebook"}')}}]);

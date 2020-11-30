@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{69:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/rng-wiki/blog/welcome"},{"title":"Hello","permalink":"/rng-wiki/blog/hello-world"},{"title":"Hola","permalink":"/rng-wiki/blog/hola"}]}')}}]);

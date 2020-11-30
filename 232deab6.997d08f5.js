@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{74:function(a){a.exports=JSON.parse('{"allTagsPath":"/rng-wiki/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/rng-wiki/blog/tags/hola"}')}}]);
