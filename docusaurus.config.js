@@ -1,13 +1,13 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  title: 'ポケモン乱数調整Wiki',
+  tagline: 'ポケモンの乱数調整コミュニティによるWiki',
+  url: 'https://rngeek.github.io',
+  baseUrl: '/rng-wiki/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'RNGeek', // Usually your GitHub org/user name.
+  projectName: 'rng-wiki', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
